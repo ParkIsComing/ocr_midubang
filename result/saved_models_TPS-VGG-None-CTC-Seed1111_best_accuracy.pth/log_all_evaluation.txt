@@ -1,0 +1,2 @@
+accuracy: : 72.500	total_accuracy: 72.500	averaged_infer_time: 72.416	# parameters: 7.741
+accuracy: : 72.500	total_accuracy: 72.500	averaged_infer_time: 32.839	# parameters: 7.741
